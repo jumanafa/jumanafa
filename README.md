@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jemmy
+- 👋 Hi, I’m jumana
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning how to detect security vulnerabilities
 - 💞️ I’m looking to collaborate on "have not decided yet"
